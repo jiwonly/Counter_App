@@ -21,7 +21,7 @@ function App() {
         <Controller onClickButton={onClickButton} />
       </section>
     </div>
-  );
+  ); // props 전달
 }
 
 export default App;
